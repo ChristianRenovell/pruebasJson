@@ -3,17 +3,6 @@
       {
         "ganador" : "christian"      
       }  
-        {
-        "ganador" : "maria"  
-      } 
-        {
-        "ganador" : "luis"  
-      }
-          {
-        "ganador" : "peter"  
-      }
-        {
-        "ganador" : "django"  
-      }   
+    
     ]
   }
