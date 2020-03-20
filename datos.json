@@ -1,9 +1,13 @@
 {
     "datos" : [
       {
-        "ganador" : "christian",
-        "certificado" : "29323"
-        
+        "ganador" : "christian"      
       }  
+        {
+        "ganador" : "maria"  
+      } 
+        {
+        "ganador" : "luis"  
+      } 
     ]
   }
